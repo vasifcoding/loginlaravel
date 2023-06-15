@@ -10,6 +10,6 @@
 ## Kullanış
 İlk olarak bilgisayarınızda Laravel 10 ve Php 8 kurulu olması gerekli.
 eğer kuruluysa proje dosyalarını indirip İDE-nizde açınız ve anasayfada bulunan .env dosyasında DB_DATABASE yerine veritabanı ismini yazınız. (varsayılan olarak loginlaravel) sonra İDE-de bulunan Terminali açarak projenin çalışması için gereken kodu yazalım - php artisan serve
-sonra veritabni tablolarımızı migrate etmek yanı veritabanına eklemek için gerekli kodu yazalım - php artisan migrate
+sonra veritabanı tablolarımızı migrate etmek yanı veritabanına eklemek için gerekli kodu yazalım - php artisan migrate
 başarılı bir şekilde kodlar çalıştıysa sadece projeyi başlatmak kaldı.
 
